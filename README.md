@@ -1,1 +1,1 @@
-redux数据流实现的demo
+在React中使用Redux数据流
