@@ -3,7 +3,7 @@
 预览
 $ git clone https://github.com/makeefforts/redux.git
 
-cd todoList
+cd redux
 
 npm install
 
